@@ -1,5 +1,5 @@
-							# FlaskApp
-					###### This is a sample flask app using docker.
+							#FlaskApp
+					###This is a sample flask app using docker.
 
 **Getting started:**
 There are two ways to start this flask app, using docker image by just pulling the docker image from the registry and also by cloning the repository
