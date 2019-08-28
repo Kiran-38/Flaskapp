@@ -1,5 +1,5 @@
-FlaskApp
-This is a sample flask app using docker.
+								**FlaskApp**
+							This is a sample flask app using docker.
 
 Getting started:
 There are two ways to start this flask app, using docker image by just pulling the docker image from the registry and also by cloning the repository
@@ -29,8 +29,3 @@ command : python server.py
 
 o	After the server is running on the computer try to check the application is available on your local host computer http://localhost:5000/ in the browser or postman application. 
 o	In order to check the swagger UI application http://localhost:5000/api/ui/ in your browser.
-
-  
-
-
-
